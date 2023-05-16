@@ -1,0 +1,17 @@
+type,code,course
+required, PPHA 30535 or PPHA 30537, Data and Programming for Public Policy I
+required, PPHA 30536 or PPHA 30538, Data and Programming for Public Policy II
+required, PPHA 30545 or PPHA 30546, Machine Learning
+required, BUSN 41204, Machine Learning
+required, CMSC 35300, Mathematical Foundations of Machine Learning
+required, MACS 33002, Introduction to Machine Learning
+elective, PPHA 30560, Data Visualization (not offered in 2022-2023)
+elective, PPHA 34600, Program Evaluation
+elective, PPHA 38829, Artificial Intelligence for Public Policy
+elective, PPHA 42000, Applied Econometrics I
+elective, PPHA 42100, Applied Econometrics II
+elective, PPHA 60000, Policy Labs (with permission of the Certificate Director)
+elective, BUSN 37304, Digital and Algorithmic Marketing
+elective, BUSN 41100, Applied Regression Analysis
+elective, CAPP 30300 / PPHA 30581, Data Science Clinic (offered Autumn/Winter/Spring)
+elective, PPHA 41400, Applied Regression Analysis (not offered in 2022-2023)
